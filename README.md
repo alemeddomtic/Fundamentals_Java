@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Fundamentos de Programación</h1>
-Este repositorio contiene las prácticas realizadas durante el curso de Fundamentos de Programación, utilizando Java como lenguaje de programación.
+Este repositorio contiene las prácticas realizadas durante la asignatura de Fundamentos de Programación, utilizando Java como lenguaje de programación.
 
 ## Unidades Cubiertas
 
