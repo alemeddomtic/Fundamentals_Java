@@ -1,3 +1,4 @@
+![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png)
 
 # Fundamentos de Programación
 Este repositorio contiene las prácticas realizadas durante el curso de Fundamentos de Programación, utilizando Java como lenguaje de programación.
