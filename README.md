@@ -1,4 +1,7 @@
-![Java Logo](https://www.websourceblog.com/wp-content/uploads/2016/10/java-code.png)
+
+<p align="center">
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java Logo" width="85%">
+</p>
 
 <h1 align="center">Fundamentos de Programación</h1>
 Este repositorio contiene las prácticas realizadas durante el curso de Fundamentos de Programación, utilizando Java como lenguaje de programación.
