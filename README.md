@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java Logo" width="85%">
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java Logo" width="50%">
 </p>
 
 <h1 align="center">Fundamentos de Programación</h1>
