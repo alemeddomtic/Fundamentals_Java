@@ -8,7 +8,7 @@ Este repositorio contiene las prácticas realizadas durante el curso de Fundamen
 - **Unidad 2 -** Introducción a la programación
 - **Unidad 3 -** Control de flujo
 - **Unidad 4 -** Organización de datos
-- **Unidad 3 -** Modularidas
+- **Unidad 3 -** Modularidad
 
 ## Lenguaje Usado
 
